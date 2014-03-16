@@ -1,0 +1,51 @@
+
+body            { font-family: Garamond; background: #eee; }
+a, h1, h2       { color: #377ba8; }
+h1, h2          { font-family: 'Garamond', serif; margin: 0; }
+h1              { border-bottom: 2px solid #eee; }
+h2              { font-size: 1.2em; }
+
+.page           { margin: 2em auto; width: 40em; border: 5px solid #ccc;
+                  padding: 0.8em; background: white; }
+.metanav        { text-align: right; font-size: 0.8em; padding: 0.3em;
+                  margin-bottom: 1em; background: #fafafa; }
+
+
+h1, h2, h3, h4 {
+    font-family: 'Garamond', 'Georgia', serif;
+    font-weight: normal; 
+}
+
+
+
+h1 {
+    text-align:center;
+    line-height: 3;
+}
+
+
+
+h2 {
+    margin: 0 0 30px 0;
+    font-size: 30px;
+    line-height: 2;
+}
+
+
+.nav { text-align: center; }
+
+p { line-height: 1.4; }
+
+
+.tag .language { font-size: 20px; }
+
+ul { line-height: 2.4; }
+
+li {font-size: 18px;}
+
+.page { margin: 2em auto; width: 35em;
+padding: 0.8em;  }
+
+
+
+

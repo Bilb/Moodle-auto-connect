@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fetc",
+				"fetch_lang_lexer"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"ce",
+				"center_y"
+			],
+			[
+				"Headers",
+				"headers_custom"
+			],
+			[
+				"to",
+				"torrent411"
+			],
+			[
+				"T411",
+				"T411Exception"
+			],
+			[
+				"Download",
+				"downloading"
+			],
+			[
+				"Piracy",
+				"PiracyBay"
+			],
+			[
+				"sea",
+				"search_type"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"series_",
+				"series_t411"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"t411",
+				"t411_api"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Gitk"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 546.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/audric/Development/Snippet-Manager/static/style.css",
+		"/home/audric/Development/Snippet-Manager/static/code.css",
+		"/home/audric/Development/Snippet-Manager/jinja2_highlight/highlight.py",
+		"/home/audric/Development/Snippet-Manager/default_lexer.py",
+		"/home/audric/Development/Snippet-Manager/templates/search.html",
+		"/home/audric/Development/Snippet-Manager/templates/snippet.html",
+		"/home/audric/Development/Workspace-DEV-Lauriane/Hcidump/src/umit/pm/HcidumpActivity.java",
+		"/home/audric/Development/Snippet-Manager/templates/login.html",
+		"/home/audric/Development/Snippet-Manager/TODO",
+		"/home/audric/Development/Snippet-Manager/templates/show_tags.html",
+		"/home/audric/Development/Snippet-Manager/templates/show_languages.html",
+		"/home/audric/Development/Snippet-Manager/templates/show_entries.html",
+		"/home/audric/Development/Snippet-Manager/templates/layout.html",
+		"/home/audric/Development/Snippet-Manager/templates/404.html",
+		"/home/audric/Development/Snippet-Manager/templates/403.html",
+		"/home/audric/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/audric/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/audric/Development/Snippet-Manager/Snippet_Manager.sublime-workspace",
+		"/home/audric/Development/Snippet-Manager/Snippet_Manager.sublime-project",
+		"/home/audric/Development/Snippet-Manager/schema.sql",
+		"/home/audric/Development/Snippet-Manager/snippet_manager.py",
+		"/home/audric/Development/Snippet-Manager/README.md",
+		"/home/audric/Development/snippet_manager_flask/schema.sql",
+		"/home/audric/Development/snippet_manager_flask/templates/show_entries.html",
+		"/home/audric/Development/snippet_manager_flask/static/style.css",
+		"/home/audric/Development/snippet_manager_flask/snippet_manager.py",
+		"/home/audric/Development/snippet_manager_flask/TODO",
+		"/home/audric/Development/snippet_manager_flask/templates/show_tags.html",
+		"/home/audric/Development/snippet_manager_flask/templates/show_languages.html",
+		"/home/audric/Development/snippet_manager_flask/templates/layout.html",
+		"/home/audric/Development/snippet_manager_flask/templates/login.html",
+		"/home/audric/Development/snippet_manager_flask/templates/snippet.html",
+		"/home/audric/Development/snippet_manager_flask/flask-docs.pdf",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/manifest.json",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/background.js",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/contentscript.js",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/credits.html",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/credits.html.save",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/icon.png",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/fill.js",
+		"/home/audric/Development/extensions_web_browser/Crous Madeleine Auto-connect/chrome_extension/autofill.js",
+		"/home/audric/Development/Bonjour-WS/schema.sql",
+		"/home/audric/Development/Bonjour-WS/bonjour/madame.py",
+		"/home/audric/Development/Bonjour-WS/backend.py",
+		"/home/audric/Development/Bonjour-WS/bonjour/base.py",
+		"/home/audric/Development/Bonjour-WS/bonjour.sqlite",
+		"/home/audric/Development/Bonjour-WS/bonjour/__init__.py",
+		"/home/audric/Development/Bonjour-WS/bonjours/madame.py",
+		"/home/audric/Development/ST00/atHome/atHome-qt/html/index.html",
+		"/home/audric/Development/ST00/atHome/atHome-qt/html/atHome.js",
+		"/home/audric/Development/ST00/atHome/atHome-qt/athomehtml5viewer.cpp",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/manifest.json",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/options.html",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/changes.css",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/changes.html",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/options.css",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/autofill.js",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/fill.js",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/CHANGES.txt",
+		"/home/audric/Development/extensions_web_browser/Moodle auto-connect/chrome_extension/options.js",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/inc/AtHomeAlljoynHelper.h",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/src/AtHomeBusListener.cpp",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/src/main.cpp",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/src/AtHomeAlljoynHelper.cpp",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/atHome.sublime-project",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/inc/common.h",
+		"/home/audric/Development/ST00/atHome/atHome-cpp/inc/AtHomeBusListener.h",
+		"/home/audric/Development/sxxexx/sxxexx/TODO",
+		"/home/audric/snippet_python_save_file_custom_headers.py",
+		"/home/audric/Development/sxxexx/sxxexx/t411.py",
+		"/home/audric/Development/sxxexx/sxxexx/sxxexx.py",
+		"/home/audric/snippet_python_main_logging_arg.py",
+		"/home/audric/Development/sxxexx/sxxexx/user.json",
+		"/home/audric/Development/sxxexx/sxxexx/sxxecc_serie_save",
+		"/home/audric/Development/sxxexx/sxxexx/t411/t411.py",
+		"/home/audric/Development/sxxexx/sxxexx/t411/__init__.py",
+		"/home/audric/Development/sxxexx/t411/t411.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dd",
+			"bold",
+			"			\n",
+			"s",
+			"Fetch_lang",
+			"fetch_lang",
+			"results",
+			"line",
+			"':",
+			"DATABASE",
+			"console",
+			"getEllipseParams",
+			"print",
+			"password",
+			"login",
+			"\n        ",
+			"        \n",
+			"t411_api",
+			"search_regexp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"t411_client"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.512247838617,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".css",
+				"static/style.css"
+			],
+			[
+				"co",
+				"static/code.css"
+			],
+			[
+				"sn",
+				"templates/snippet.html"
+			],
+			[
+				"to",
+				"TODO"
+			],
+			[
+				"la",
+				"templates/layout.html"
+			],
+			[
+				"shw",
+				"templates/show_languages.html"
+			],
+			[
+				"ta",
+				"templates/show_tags.html"
+			],
+			[
+				"layo",
+				"templates/layout.html"
+			],
+			[
+				"sh",
+				"templates/show_entries.html"
+			],
+			[
+				"",
+				"snippet_manager.py"
+			],
+			[
+				"cs",
+				"static/style.css"
+			],
+			[
+				"sty",
+				"static/style.css"
+			],
+			[
+				"sch",
+				"schema.sql"
+			],
+			[
+				"schema",
+				"schema.sql"
+			],
+			[
+				"ma",
+				"manifest.json"
+			],
+			[
+				"ht",
+				"options.html"
+			],
+			[
+				"changes",
+				"changes.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
